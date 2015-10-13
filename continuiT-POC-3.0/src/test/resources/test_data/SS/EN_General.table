@@ -1,0 +1,5 @@
+ {ignorableSeparator=!--,headerSeparator=|,valueSeparator=|,transformer=FROM_LANDSCAPE}
+ | userName | admin |
+ | password | advenio2015qa |
+ | testInput | Sample Test Data: Asterisk Field |
+ | testHeadlineInput | Test Headline |
