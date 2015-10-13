@@ -1,0 +1,5 @@
+Create a New Template
+  
+  In order verify the New Template features
+  As an tester
+  I want to be able to create New Templates

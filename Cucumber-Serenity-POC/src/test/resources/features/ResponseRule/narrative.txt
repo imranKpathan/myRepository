@@ -1,0 +1,5 @@
+Create a response rule
+  
+  In order verify the Response Rules
+  As an tester
+  I want to be able to create different Response Rules
